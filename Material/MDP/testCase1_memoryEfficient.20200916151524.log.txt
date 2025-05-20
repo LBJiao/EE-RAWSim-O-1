@@ -1,0 +1,27 @@
+Creating instance from file C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.txt ...
+Model statistics:
+m: 21
+n: 20
+NNZs: 96
+Solving ...
+Gurobi Optimizer version 9.0.3 build v9.0.3rc0 (win64)
+Optimize a model with 21 rows, 20 columns and 96 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 1e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 21 rows and 20 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3186813e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective  1.318681319e+00
+
+User-callback calls 29, time in user-callback 0.00 sec
+Solution found!
+Writing instance to C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.20200916151524.solution.txt
+Dumping log to file C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.20200916151524.log.txt
+

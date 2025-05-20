@@ -1,0 +1,15 @@
+Creating instance from file C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.txt ...
+Model statistics:
+m: 21
+n: 20
+NNZs: 96
+Solving ...
+Tried aggregator 1 time.
+LP Presolve eliminated 2 rows and 1 columns.
+Aggregator did 19 substitutions.
+All rows and columns eliminated.
+Presolve time = 0.02 sec. (0.02 ticks)
+Solution found!
+Writing instance to C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.20200916152615.solution.txt
+Dumping log to file C:\Users\国富\Desktop\RAWSim-O-master1 - 加入数学规划的方法\Material\MDP\testCase1_memoryEfficient.20200916152615.log.txt
+
